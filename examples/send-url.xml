@@ -1,4 +1,4 @@
-<message to='rajo@server.somewhere.sk'>
+<message to='construct@im.apinc.org'>
 	<body>Check out the new sendxmpp website!</body>
 	<x xmlns='jabber:x:oob'>
 		<url>http://sendxmpp.hostname.sk/</url>
